@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "genre": "Historical Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.23
+  },
+  {
+    "id": 2,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fantasy",
+    "publication_year": 2020,
+    "goodreads_rating": 4.12
+  },
+  {
+    "id": 3,
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "genre": "Science Fiction",
+    "publication_year": 2021,
+    "goodreads_rating": 3.68
+  },
+  {
+    "id": 4,
+    "title": "A Promised Land",
+    "author": "Barack Obama",
+    "genre": "Memoir",
+    "publication_year": 2020,
+    "goodreads_rating": 4.45
+  },
+  {
+    "id": 5,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "publication_year": 2021,
+    "goodreads_rating": 4.53
+  },
+  {
+    "id": 6,
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "genre": "Fantasy",
+    "publication_year": 2020,
+    "goodreads_rating": 4.24
+  },
+  {
+    "id": 7,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Mystery",
+    "publication_year": 2018,
+    "goodreads_rating": 4.39
+  },
+  {
+    "id": 8,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "publication_year": 1965,
+    "goodreads_rating": 4.25
+  },
+  {
+    "id": 9,
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "genre": "Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.04
+  },
+  {
+    "id": 10,
+    "title": "The Four Winds",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "publication_year": 2021,
+    "goodreads_rating": 4.34
+  },
+  {
+    "id": 11,
+    "title": "The Last House on Needless Street",
+    "author": "Catriona Ward",
+    "genre": "Horror",
+    "publication_year": 2021,
+    "goodreads_rating": 3.93
+  },
+  {
+    "id": 12,
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "genre": "Horror",
+    "publication_year": 2020,
+    "goodreads_rating": 3.89
+  },
+  {
+    "id": 13,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publication_year": 2011,
+    "goodreads_rating": 4.37
+  },
+  {
+    "id": 14,
+    "title": "The Lincoln Highway",
+    "author": "Amor Towles",
+    "genre": "Historical Fiction",
+    "publication_year": 2021,
+    "goodreads_rating": 4.26
+  },
+  {
+    "id": 15,
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "genre": "Historical Fiction",
+    "publication_year": 2021,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 16,
+    "title": "The Night Watchman",
+    "author": "Louise Erdrich",
+    "genre": "Historical Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.14
+  },
+  {
+    "id": 17,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publication_year": 2018,
+    "goodreads_rating": 4.25
+  },
+  {
+    "id": 18,
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 3.84
+  },
+  {
+    "id": 19,
+    "title": "The Nickel Boys",
+    "author": "Colson Whitehead",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.18
+  },
+  {
+    "id": 20,
+    "title": "Transcendent Kingdom",
+    "author": "Yaa Gyasi",
+    "genre": "Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.08
+  },
+  {
+    "id": 21,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "goodreads_rating": 4.13
+  },
+  {
+    "id": 22,
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "genre": "Fiction",
+    "publication_year": 2012,
+    "goodreads_rating": 4.36
+  },
+  {
+    "id": 23,
+    "title": "Before We Were Strangers",
+    "author": "Renée Carlino",
+    "genre": "Romance",
+    "publication_year": 2015,
+    "goodreads_rating": 4.12
+  },
+  {
+    "id": 24,
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "Historical Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.48
+  },
+  {
+    "id": 25,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "publication_year": 2018,
+    "goodreads_rating": 4.46
+  },
+  {
+    "id": 26,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genre": "Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.1
+  },
+  {
+    "id": 27,
+    "title": "The Dutch House",
+    "author": "Ann Patchett",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.15
+  },
+  {
+    "id": 28,
+    "title": "Where the Forest Meets the Stars",
+    "author": "Glendy Vanderah",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.22
+  },
+  {
+    "id": 29,
+    "title": "Homegoing",
+    "author": "Yaa Gyasi",
+    "genre": "Historical Fiction",
+    "publication_year": 2016,
+    "goodreads_rating": 4.39
+  },
+  {
+    "id": 30,
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "genre": "Romance",
+    "publication_year": 2019,
+    "goodreads_rating": 4.21
+  },
+  {
+    "id": 31,
+    "title": "Ask Again, Yes",
+    "author": "Mary Beth Keane",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.07
+  },
+  {
+    "id": 32,
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "publication_year": 2019,
+    "goodreads_rating": 4.18
+  },
+  {
+    "id": 33,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Memoir",
+    "publication_year": 2018,
+    "goodreads_rating": 4.54
+  },
+  {
+    "id": 34,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "publication_year": 2011,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 35,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "genre": "Fiction",
+    "publication_year": 2015,
+    "goodreads_rating": 4.32
+  },
+  {
+    "id": 36,
+    "title": "The Lying Game",
+    "author": "Ruth Ware",
+    "genre": "Mystery",
+    "publication_year": 2017,
+    "goodreads_rating": 3.66
+  },
+  {
+    "id": 37,
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "genre": "Thriller",
+    "publication_year": 2018,
+    "goodreads_rating": 4
+  },
+  {
+    "id": 38,
+    "title": "Nine Perfect Strangers",
+    "author": "Liane Moriarty",
+    "genre": "Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 3.74
+  },
+  {
+    "id": 39,
+    "title": "The Giver of Stars",
+    "author": "Jojo Moyes",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.26
+  },
+  {
+    "id": 40,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "publication_year": 2005,
+    "goodreads_rating": 4.38
+  },
+  {
+    "id": 41,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Mystery",
+    "publication_year": 2014,
+    "goodreads_rating": 4.29
+  },
+  {
+    "id": 42,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Dystopian",
+    "publication_year": 2006,
+    "goodreads_rating": 4.06
+  },
+  {
+    "id": 43,
+    "title": "The Light We Lost",
+    "author": "Jill Santopolo",
+    "genre": "Romance",
+    "publication_year": 2017,
+    "goodreads_rating": 3.87
+  },
+  {
+    "id": 44,
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "genre": "Memoir",
+    "publication_year": 2016,
+    "goodreads_rating": 4.35
+  },
+  {
+    "id": 45,
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Thriller",
+    "publication_year": 2015,
+    "goodreads_rating": 3.94
+  },
+  {
+    "id": 46,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "publication_year": 2012,
+    "goodreads_rating": 4.1
+  },
+  {
+    "id": 47,
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "genre": "Science Fiction",
+    "publication_year": 2014,
+    "goodreads_rating": 4.04
+  },
+  {
+    "id": 48,
+    "title": "The Alice Network",
+    "author": "Kate Quinn",
+    "genre": "Historical Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.27
+  },
+  {
+    "id": 49,
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "genre": "Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.26
+  },
+  {
+    "id": 50,
+    "title": "The Tattooist of Auschwitz",
+    "author": "Heather Morris",
+    "genre": "Historical Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 4.27
+  },
+  {
+    "id": 51,
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "publication_year": 2015,
+    "goodreads_rating": 4.2
+  },
+  {
+    "id": 52,
+    "title": "The Huntress",
+    "author": "Kate Quinn",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.28
+  },
+  {
+    "id": 53,
+    "title": "Beartown",
+    "author": "Fredrik Backman",
+    "genre": "Fiction",
+    "publication_year": 2016,
+    "goodreads_rating": 4.3
+  },
+  {
+    "id": 54,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genre": "Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.08
+  },
+  {
+    "id": 55,
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "genre": "Historical Fiction",
+    "publication_year": 2016,
+    "goodreads_rating": 4.1
+  },
+  {
+    "id": 56,
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "genre": "Historical Fiction",
+    "publication_year": 2014,
+    "goodreads_rating": 4.33
+  },
+  {
+    "id": 57,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "publication_year": 1985,
+    "goodreads_rating": 4.12
+  },
+  {
+    "id": 58,
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "publication_year": 2006,
+    "goodreads_rating": 3.94
+  },
+  {
+    "id": 59,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "publication_year": 2018,
+    "goodreads_rating": 4.46
+  },
+  {
+    "id": 60,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_year": 1960,
+    "goodreads_rating": 4.28
+  },
+  {
+    "id": 61,
+    "title": "The Great Alone",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 4.31
+  },
+  {
+    "id": 62,
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.24
+  },
+  {
+    "id": 63,
+    "title": "Before We Were Yours",
+    "author": "Lisa Wingate",
+    "genre": "Historical Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.39
+  },
+  {
+    "id": 64,
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "publication_year": 2015,
+    "goodreads_rating": 4.57
+  },
+  {
+    "id": 65,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publication_year": 1988,
+    "goodreads_rating": 3.88
+  },
+  {
+    "id": 66,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "goodreads_rating": 4.13
+  },
+  {
+    "id": 67,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publication_year": 2018,
+    "goodreads_rating": 4.25
+  },
+  {
+    "id": 68,
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "genre": "Fiction",
+    "publication_year": 2013,
+    "goodreads_rating": 3.91
+  },
+  {
+    "id": 69,
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "publication_year": 2013,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 70,
+    "title": "The Light We Lost",
+    "author": "Jill Santopolo",
+    "genre": "Romance",
+    "publication_year": 2017,
+    "goodreads_rating": 3.87
+  },
+  {
+    "id": 71,
+    "title": "Where the Forest Meets the Stars",
+    "author": "Glendy Vanderah",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.22
+  },
+  {
+    "id": 72,
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "genre": "Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.26
+  },
+  {
+    "id": 73,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Mystery",
+    "publication_year": 2014,
+    "goodreads_rating": 4.29
+  },
+  {
+    "id": 74,
+    "title": "The Girl with the Louding Voice",
+    "author": "Abi Daré",
+    "genre": "Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.34
+  },
+  {
+    "id": 75,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Memoir",
+    "publication_year": 2018,
+    "goodreads_rating": 4.54
+  },
+  {
+    "id": 76,
+    "title": "The Night Watchman",
+    "author": "Louise Erdrich",
+    "genre": "Historical Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.14
+  },
+  {
+    "id": 77,
+    "title": "The Nickel Boys",
+    "author": "Colson Whitehead",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.18
+  },
+  {
+    "id": 78,
+    "title": "Before the Coffee Gets Cold",
+    "author": "Toshikazu Kawaguchi",
+    "genre": "Fantasy",
+    "publication_year": 2015,
+    "goodreads_rating": 3.74
+  },
+  {
+    "id": 79,
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "genre": "Historical Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.32
+  },
+  {
+    "id": 80,
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 3.84
+  },
+  {
+    "id": 81,
+    "title": "The Tattooist of Auschwitz",
+    "author": "Heather Morris",
+    "genre": "Historical Fiction",
+    "publication_year": 2018,
+    "goodreads_rating": 4.27
+  },
+  {
+    "id": 82,
+    "title": "Homegoing",
+    "author": "Yaa Gyasi",
+    "genre": "Historical Fiction",
+    "publication_year": 2016,
+    "goodreads_rating": 4.39
+  },
+  {
+    "id": 83,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genre": "Fiction",
+    "publication_year": 2017,
+    "goodreads_rating": 4.1
+  },
+  {
+    "id": 84,
+    "title": "The Chain",
+    "author": "Adrian McKinty",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "goodreads_rating": 3.92
+  },
+  {
+    "id": 85,
+    "title": "The Girl with the Louding Voice",
+    "author": "Abi Daré",
+    "genre": "Fiction",
+    "publication_year": 2020,
+    "goodreads_rating": 4.34
+  },
+  {
+    "id": 86,
+    "title": "City of Girls",
+    "author": "Elizabeth Gilbert",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 87,
+    "title": "Then She Was Gone",
+    "author": "Lisa Jewell",
+    "genre": "Thriller",
+    "publication_year": 2017,
+    "goodreads_rating": 4.02
+  },
+  {
+    "id": 88,
+    "title": "Such a Fun Age",
+    "author": "Kiley Reid",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 3.85
+  },
+  {
+    "id": 89,
+    "title": "The Institute",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "publication_year": 2019,
+    "goodreads_rating": 4.06
+  },
+  {
+    "id": 90,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Mystery",
+    "publication_year": 2018,
+    "goodreads_rating": 4.39
+  },
+  {
+    "id": 91,
+    "title": "The Giver of Stars",
+    "author": "Jojo Moyes",
+    "genre": "Historical Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.26
+  },
+  {
+    "id": 92,
+    "title": "Before We Were Strangers",
+    "author": "Renée Carlino",
+    "genre": "Romance",
+    "publication_year": 2015,
+    "goodreads_rating": 4.12
+  },
+  {
+    "id": 93,
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "publication_year": 2019,
+    "goodreads_rating": 4.18
+  },
+  {
+    "id": 94,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "goodreads_rating": 4.13
+  },
+  {
+    "id": 95,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "genre": "Fiction",
+    "publication_year": 2015,
+    "goodreads_rating": 4.32
+  },
+  {
+    "id": 96,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "publication_year": 2011,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 97,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Mystery",
+    "publication_year": 2014,
+    "goodreads_rating": 4.29
+  },
+  {
+    "id": 98,
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "genre": "Thriller",
+    "publication_year": 2018,
+    "goodreads_rating": 3.95
+  },
+  {
+    "id": 99,
+    "title": "Where the Forest Meets the Stars",
+    "author": "Glendy Vanderah",
+    "genre": "Fiction",
+    "publication_year": 2019,
+    "goodreads_rating": 4.22
+  },
+  {
+    "id": 100,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "publication_year": 2011,
+    "goodreads_rating": 4.37
+  },
+  {
+    "id": 101,
+    "title": "The women",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "publication_year": 2024,
+    "goodreads_rating": 4.63
+  },
+  {
+    "id": 102,
+    "title": "Funny story",
+    "author": "Emily Henry",
+    "genre": "Romance",
+    "publication_year": 2024,
+    "goodreads_rating": 4.25
+  },
+  {
+    "id": 103,
+    "title": "Bride",
+    "author": "Ali Hazelwood",
+    "genre": "Fantasy",
+    "publication_year": 2024,
+    "goodreads_rating": 4.02
+  },
+  {
+    "id": 104,
+    "title": "First Lie wins",
+    "author": "Ashley Elston",
+    "genre": "Thriller",
+    "publication_year": 2024,
+    "goodreads_rating": 4.03
+  },
+  {
+    "id": 105,
+    "title": "James",
+    "author": "Percival Everett",
+    "genre": "Fiction",
+    "publication_year": 2024,
+    "goodreads_rating": 4.53
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Directory</title>
+    <link rel="stylesheet" href="../book.css">
+</head>
+<body>
+    <h1>Book Directory</h1>
+    <div id="screen">
+        <div id="ran-book">
+            <h2>Find your next read!</h2>
+            <img id="book-img" src="" alt="">
+            <div id="book-info">
+                <img id="book-img" src="<%- imageUrl %>" alt="Book Cover">
+                <h3><strong>Title:</strong> <%- tit_le %></h3>
+                <h3><strong>Author:</strong> <%- aut_hor %></h3>
+                <h3><strong>Genre:</strong> <%- gen_re %></h3>
+                <h3><strong>Publication Year:</strong> <%- year %></h3>
+                <h3><strong>Goodreads Rating:</strong> <%- goodreads %></h3>
+            </div>
+            
+            
+            <form id="find-book" action="/search" method="get">
+                <button id="but" type="submit">Generate</button>
+            </form>
+            
+        </div>
+        <div id="add-book">
+            <h2>Your Book Suggestions Matter!</h2>
+            <div id="sug-form">
+                <form action="/submit" method="post">
+                    <label for="title">Title</label>
+                    <input type="text" id="title" name="title" required>
+                    <br><br>
+        
+                    <label for="author">Author</label>
+                    <input type="text" id="author" name="author" required>
+                    <br><br>
+
+                    <label for="genre">Genre</label>
+                    <input type="text" id="genre" name="genre" required>
+                    <br><br>
+
+                    <label for="year">Publication Year</label>
+                    <input type="number" id="year" name="publication_year" required>
+                    <br><br>
+
+                    <label for="rating">Goodreads Rating</label>
+                    <input type="number" id="rating" name="goodreads_rating" step="any" required>
+                    <br><br>
+                    <button id="but" type="submit">Save</button>
+                </form>
+            </div>
+        </div>
+
+            
+        
+    </div>
+    
+</body>
+</html>

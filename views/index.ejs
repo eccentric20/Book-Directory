@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Directory</title>
+    <link rel="stylesheet" href="../bookIndex.css">
+</head>
+<body>
+    <h1>Book Directory</h1>
+    <div id="screen">
+        <div id="ran-book">
+            <h2>Find your next read!</h2>
+            
+            
+            
+            
+            <form id="find-book" action="/search" method="get">
+                <button id="but" type="submit">Generate</button>
+            </form>
+            
+        </div>
+        <div id="add-book">
+            <h2>Your Book Suggestions Matter!</h2>
+            <div id="sug-form">
+                <form action="/submit" method="post">
+                    <label for="title">Title</label>
+                    <input type="text" id="title" name="title" required>
+                    <br><br>
+        
+                    <label for="author">Author</label>
+                    <input type="text" id="author" name="author" required>
+                    <br><br>
+
+                    <label for="genre">Genre</label>
+                    <input type="text" id="genre" name="genre" required>
+                    <br><br>
+
+                    <label for="year">Publication Year</label>
+                    <input type="number" id="year" name="publication_year" required>
+                    <br><br>
+
+                    <label for="rating">Goodreads Rating</label>
+                    <input type="number" id="rating" name="goodreads_rating" step="any" required>
+                    <br><br>
+                    <button id="but" type="submit">Save</button>
+                </form>
+            </div>
+        </div>
+
+            
+        
+    </div>
+    <script>
+        const errorMessage = "<%= errorMessage %>";
+        if(errorMessage){
+            alert(errorMessage);
+        }
+    </script>
+</body>
+</html>
